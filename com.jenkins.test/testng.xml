@@ -1,0 +1,7 @@
+<suite name="Jenkins Test Suite">
+	<test name="JenkinsTest">
+		<classes>
+			<class name="testLogin.LoginClass"></class>
+		</classes>
+	</test>
+</suite>
